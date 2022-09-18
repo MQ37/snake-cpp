@@ -1,5 +1,5 @@
 # snake_cpp
-Snake written by noob C++ developer
+Snake in C++ SFML
 
 Executable in bin/ folder
 
